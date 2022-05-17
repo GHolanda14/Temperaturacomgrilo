@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Temperatura com grilo</string>
+    <string name="tvDescricao">Você sabia que podemos determinar a temperatura do ambiente contando o número de gorjeios que os grilos fazem? Você só precisa contar o número de gorjeios que ele faz em 25 segundos e colocar o número na caixa abaixo:</string>
+    <string name="hintGorjeios">Números de gorjeios</string>
+    <string name="txCalcular">Calcular temperatura</string>
+</resources>
